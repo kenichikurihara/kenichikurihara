@@ -31,4 +31,4 @@ guid: 'https://www.kenichikurihara.com/?page_id=367'
 - [Variational Dirichlet Process Gaussian Mixture Model](variational-dirichlet-process-gaussian-mixture-model.html)
 - [Bayesian K-Means](bayesian-k-means.html)
 
-## [English version](about-me.html)
+## [English version](/)
