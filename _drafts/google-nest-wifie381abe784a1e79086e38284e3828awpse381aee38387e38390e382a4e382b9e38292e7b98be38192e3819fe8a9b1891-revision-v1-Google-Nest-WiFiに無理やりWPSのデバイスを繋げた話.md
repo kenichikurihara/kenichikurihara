@@ -12,6 +12,6 @@ permalink: '/?p=899'
 
 まずは、下の図のように、新しいWiFiルーターのSSIDとパスワードを既存のGoogle Nest WiFiと同じに設定します。
 
-<figure class="wp-block-image size-large">![](https://kenichikurihara.com/wp-content/uploads/2023/07/wifinew-1024x434.png)</figure>WPSでしか繋がらないデバイスをWPS対応ルーターに接続します。ここでWPS対応ルーターには下図のようにいなくなってもらうと、WPSデバイスはちゃんとGoogle Nest WiFiと繋がります。
+<figure class="wp-block-image size-large">![](/wp-content/uploads/2023/07/wifinew-1024x434.png)</figure>WPSでしか繋がらないデバイスをWPS対応ルーターに接続します。ここでWPS対応ルーターには下図のようにいなくなってもらうと、WPSデバイスはちゃんとGoogle Nest WiFiと繋がります。
 
-<figure class="wp-block-image size-large">![](https://kenichikurihara.com/wp-content/uploads/2023/07/gwifionly-1024x465.png)</figure>めでたし、めでたし
+<figure class="wp-block-image size-large">![](/wp-content/uploads/2023/07/gwifionly-1024x465.png)</figure>めでたし、めでたし

@@ -16,9 +16,9 @@ guid: 'https://www.kenichikurihara.com/?page_id=367'
 - [学術論文](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQr8O01B0E7ha1s85D9zryhGEFiM5-tE-S3b_YhYefwLtJfgIqTAZPf3YwVAig7GsckrWAh0fvJkPPp/pubhtml?gid=0&single=true) (個人で管理)
     - [Google Scholarのリスト](https://scholar.google.com/citations?user=d8NF-6IAAAAJ)
 
-</div><div class="wp-block-column" style="flex-basis:33.33%"><figure class="wp-block-image size-large">![Talk in UAI 2009](https://www.kenichikurihara.com/wp-content/uploads/2021/02/DSCF3352-768x1024.jpg)<figcaption>UAI 2009</figcaption></figure></div></div>## 論文で使用したソフトウェア
+</div><div class="wp-block-column" style="flex-basis:33.33%"><figure class="wp-block-image size-large">![Talk in UAI 2009](wp-content/uploads/2021/02/DSCF3352-768x1024.jpg)<figcaption>UAI 2009</figcaption></figure></div></div>## 論文で使用したソフトウェア
 
-- [Variational Dirichlet Process Gaussian Mixture Model](https://sites.google.com/site/kenichikurihara/academic-software/variational-dirichlet-process-gaussian-mixture-model)
-- [Bayesian K-Means](https://sites.google.com/site/kenichikurihara/academic-software/variational-dirichlet-process-gaussian-mixture-model)
+- [Variational Dirichlet Process Gaussian Mixture Model](variational-dirichlet-process-gaussian-mixture-model.html)
+- [Bayesian K-Means](bayesian-k-means.html)
 
-## [English version](https://www.kenichikurihara.com/about-me/)
+## [English version](about-me.html)
