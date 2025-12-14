@@ -13,7 +13,7 @@ categories:
     - Uncategorized
 ---
 
-It seems AMP plugin shows raw Latex expression. For example, I have this [page](http://www.kenichikurihara.com/2018/06/09/marginalizing-out-normal-wishart-prior-of-multivariate-normal-distribution-for-bayesian-inference/) which uses Latex as of now. The latest AMP plugin is [version 1.0-RC2](https://github.com/Automattic/amp-wp/releases). Really hoping it will be fixed :)
+It seems AMP plugin shows raw Latex expression. For example, I have this [page]({% post_url 2018-06-09-marginalizing-out-normal-wishart-prior-of-multivariate-normal-distribution-for-bayesian-inference %}) which uses Latex as of now. The latest AMP plugin is [version 1.0-RC2](https://github.com/Automattic/amp-wp/releases). Really hoping it will be fixed :)
 
 Update on Dec 10, 2018 AMP plugin reached 1.0! However, the Latex problem didn't fix. Instead, I found [WP QuickLatex plugin](https://wordpress.org/plugins/wp-quicklatex/) fixes the problem.
 

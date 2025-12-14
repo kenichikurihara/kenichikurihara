@@ -20,7 +20,7 @@ permalink: '/?p=584'
 
 長くなるので簡単に書くと[NECの PA-WG2600HP3](https://www.aterm.jp/product/atermstation/product/navi/wg2600hp3.html) がおすすめです。もう一台、IO-Dataの WN-AX2033GR2 も試しましたが、PA-WG2600HP3 の方がかなり遅いです。速度は以下の通りです。
 
-<figure class="wp-block-image size-large">![](https://www.kenichikurihara.com/wp-content/uploads/2019/09/4oPX08rEsxS-839x1024.png)</figure>IPoEルーターには満足いったのですが、何をどうがんばってもGoogle WiFiにつなげたスマホなどがIPv6で通信できませんでした。ちなみに、以下のようなネットワークになってます。
+<figure class="wp-block-image size-large">![](/wp-content/uploads/2019/09/4oPX08rEsxS-839x1024.png)</figure>IPoEルーターには満足いったのですが、何をどうがんばってもGoogle WiFiにつなげたスマホなどがIPv6で通信できませんでした。ちなみに、以下のようなネットワークになってます。
 
 光モデム -&gt; PA-WG2600HP3 -&gt; Google WiFi -&gt; スマホ
 
