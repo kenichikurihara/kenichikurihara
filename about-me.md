@@ -5,6 +5,7 @@ date: '2019-01-27T09:43:12+00:00'
 author: 'Kenichi Kurihara'
 layout: page
 guid: 'https://www.kenichikurihara.com/?page_id=264'
+permalink: /
 ---
 
 ## Kenichi Kurihara
