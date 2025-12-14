@@ -1,0 +1,26 @@
+---
+id: 788
+title: THEOの3年半の実績、リターンとリスク
+date: '2022-12-13T06:19:22+00:00'
+author: 'Kenichi Kurihara'
+layout: revision
+guid: 'https://www.kenichikurihara.com/?p=788'
+permalink: '/?p=788'
+---
+
+[THEO](https://theo.blue/)を毎月積立でしばらく放置していたので、過去の運用実績を計算してみました。計算間違っていたらすみません。2019年4月<sup>1</sup>から同じ額で積み立てているので2019年4月から2022年11月までの年率リターンと年率リスク(年率標準偏差)を計算してみました<sup>2</sup>。参考に、同じ時期の[ｅＭＡＸＩＳ Ｓｌｉｍ 米国株式（Ｓ＆Ｐ５００）](https://emaxis.jp/fund/253266.html)と2020年1月までの[THEOが公式に公開](https://www.money-design.com/news/filedownload.php?name=accf0cbc458a014f99b885d47382de5d.pdf)している平均リスクとリターンも表にまとめています。
+
+<figure class="wp-block-table">|  | 私のTHEO実績 | [eMAXISSlim S&amp;P500](https://emaxis.jp/fund/253266.html) | [THEO 公式公開情報](https://www.money-design.com/news/filedownload.php?name=accf0cbc458a014f99b885d47382de5d.pdf) |
+|---|---|---|---|
+| 期間 | 2019/4 - 2022/11 | 2019/4 - 2022/11 | 2016/3 - 2020/1 |
+| 年率リターン | 7.3% | 16.7% | 7% |
+| 年率リスク | 13.6% | 18.8% | ~12% |
+
+<figcaption class="wp-element-caption">円ベースのリターンとリスク</figcaption></figure>私のTHEOの実績はeMAXISSlim S&amp;P500と比較すると、ちゃんとリスクは下がってます。THEO公式が公開しているデータの7%リターンあたりのリスクが12%強なので、私の実績とほぼ一致しています。
+
+THEOにしろ似た様な商品にしろ、手数料は取られますが、全て自動で購入とリバランスをしてくれるのは便利かなと思います。専門家でないので、このリスクとリターンのバランスが妥当なのかはっきりとは言えませんが悪くはなさそうに思えます。個人的には私の実績が公開データとほぼ一致していて安心しました。
+
+## 脚注
+
+1. ちなみに、私の2019/4のTHEOの口座は二桁万円入っていたので、一応それなりにポートフォリオは分散されていました。
+2. 残念ながらTHEOは過去の評価額をダウンロードできないみたいです。仕方ないので、手で月末の評価額を拾いました。ちょっと面倒だった。
