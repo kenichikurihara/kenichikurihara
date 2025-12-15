@@ -10,7 +10,7 @@ categories:
     - Uncategorized
 ---
 
-<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2020/12/phpupdate.png" alt="" /></figure>上記のような注意が出てました。PHPにセキュリティ問題があるから、PHPのバージョンをアップデートしなさいということです。
+<figure><img src="/wp-content/uploads/2020/12/phpupdate.png" alt="" /></figure>上記のような注意が出てました。PHPにセキュリティ問題があるから、PHPのバージョンをアップデートしなさいということです。
 
 私のWordPressの環境はBitnamiのGCP向けのWordPressのパッケージです。残念ながら、[Bitnamiはパッケージの中のソフトウェアを個別にアップデートすることは公式にサポートしてません。](https://community.bitnami.com/t/is-there-a-way-to-update-php-and-apache-in-bitnami-community-amis-without-migrating/72617)
 
