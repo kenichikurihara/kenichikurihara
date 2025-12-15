@@ -2,3 +2,4 @@ url: 'http://127.0.0.1/wordpress/'
 name: 'Kenichi Kurihara'
 description: ''
 baseurl: ""
+theme: jekyll-theme-cayman
