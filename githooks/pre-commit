@@ -1,0 +1,18 @@
+#!/bin/sh
+
+echo "🏗️  Running pre-commit build check..."
+
+# Build the site into a temporary folder so we don't mess up your _site directory
+bundle exec jekyll build --destination /tmp/_jekyll_build_test
+
+# Capture the result code
+RESULT=$?
+
+if [ $RESULT -ne 0 ]; then
+    echo "❌ Jekyll build failed! Commit aborted."
+    echo "   Fix the errors above and try again."
+    exit 1
+fi
+
+echo "✅ Build successful. Proceeding with commit."
+exit 0
