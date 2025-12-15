@@ -2,3 +2,4 @@ url: 'https://kenichikurihara.github.io'
 name: 'Kenichi Kurihara'
 description: ''
 baseurl: ""
+theme: jekyll-theme-cayman
