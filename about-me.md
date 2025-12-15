@@ -25,7 +25,7 @@ permalink: /
 </ul>
 </div>
 <div style="flex: 1; min-width: 250px;">
-<figure class="wp-block-image size-large"><img src="wp-content/uploads/2021/02/DSCF3352-768x1024.jpg" alt="Talk in UAI 2009" style="width: 100%; height: auto;"><figcaption>UAI 2009</figcaption></figure>
+<figure><img src="wp-content/uploads/2021/02/DSCF3352-768x1024.jpg" alt="Talk in UAI 2009" style="width: 100%; height: auto;"><figcaption>UAI 2009</figcaption></figure>
 </div>
 </div>### Academic Software
 

@@ -12,4 +12,4 @@ categories:
 
 [GoogleのSite KitプラグインのBetaプログラムが開始](https://sitekit.withgoogle.com/)されました。まだ私は導入していませんが、公開されたらインストールして、ブログ記事にしたいと思います。
 
-<figure class="wp-block-image"><img src="/wp-content/uploads/2018/12/ZHZRQ9af1Pw.png" alt="" /></figure>
+<figure><img src="/wp-content/uploads/2018/12/ZHZRQ9af1Pw.png" alt="" /></figure>
