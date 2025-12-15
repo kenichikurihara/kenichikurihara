@@ -1,0 +1,26 @@
+name: Test Site Build
+
+on:
+  pull_request:
+    branches: [ "main", "master" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1' # Or your local ruby version
+          bundler-cache: true
+
+      - name: Install Dependencies
+        run: bundle install
+
+      - name: Build Site
+        # --strict fails the build if there are warnings (like broken links)
+        # --future allows posts with future dates if you have them
+        run: bundle exec jekyll build --strict --future
